@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752653288 source:c:\users\admin\documents\git\demo\recrusivfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
