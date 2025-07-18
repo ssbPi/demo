@@ -15,7 +15,8 @@ int sum(int k);
 
 int main()
 {
-    setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, "Russian"); // это новый комментарий
+
 
     int result = sum(10);
     printf("%d", result);
